@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# 本地数据与草稿（技能只随仓库分发 SKILL.md 与文档）
+*.log
+空间考古/
